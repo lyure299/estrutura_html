@@ -1,8 +1,8 @@
 Este código cria uma página web simples com:
 
-Um título principal (<h1>) com o texto "meu titulo" e um id titulo1 para estilização específica.
+Um título principal com o texto "meu titulo" e um id titulo1 para estilização específica.
 
-Vários subtítulos em diferentes níveis (<h2> até <h6>) com o texto "meu subtitulo", demonstrando os tamanhos hierárquicos das tags de título.
+Vários subtítulos em diferentes níveis até com o texto "meu subtitulo", demonstrando os tamanhos hierárquicos das tags de título.
 
 Um parágrafo simples com o texto "tanto faz".
 
